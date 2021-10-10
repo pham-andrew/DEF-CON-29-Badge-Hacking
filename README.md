@@ -10,7 +10,7 @@ Macropad:
 
 Challenge: 
 
-Badge Types: Human,Goon,Creator,Speaker,Artist,Vendor,Press
+* Badge Types: Human,Goon,Creator,Speaker,Artist,Vendor,Press
 
 Body:
 
